@@ -1,1 +1,1 @@
-Tic-Tac-Toe Game.
+Interactive tic-tac-toe game with React.
